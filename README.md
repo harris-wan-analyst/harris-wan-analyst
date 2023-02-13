@@ -12,17 +12,35 @@
 - ⚡ Fun fact: Love playing badminton & Chatting 💬
   
 <h3>Skills & Tools:</h3>
- 
+
 <table>
 <tbody>
  <tr>
-<td align="center" width="50%">
-<img height=60px src="https://user-images.githubusercontent.com/117702329/218370430-1e6da871-815c-426e-9d11-01f268dcb9db.png"> 
+
+   
+<td align="center" width="20%">
+<img height=50px src="https://user-images.githubusercontent.com/117702329/218373797-e4e3d15b-7689-4489-bd7d-64049e8c856b.jpg"> 
+</td>  
+ 
+<td align="center" width="20%">
+<img height=50px src="https://user-images.githubusercontent.com/117702329/218373903-69ad7622-b4c1-4c49-a296-71512461ca3b.png"> 
+</td>  
+   
+<td align="center" width="20%">
+<img height=50px src="https://user-images.githubusercontent.com/117702329/218370430-1e6da871-815c-426e-9d11-01f268dcb9db.png"> 
 </td>
 
-<td align="center" width="50%">
-<img height=60px src="https://img.icons8.com/color/2x/python.png"> 
+<td align="center" width="20%">
+<img height=50px src="https://img.icons8.com/color/2x/python.png"> 
 </td>
+
+<td align="center" width="20%">
+<img height=50px src="https://user-images.githubusercontent.com/117702329/218372770-10a952dc-0f67-4c6d-a2b5-4f5129ba578a.jpg"> 
+</td>
+
+</td>
+
 </tr>
-</tbody>
-</table>
+
+
+
