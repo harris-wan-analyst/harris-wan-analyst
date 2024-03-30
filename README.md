@@ -6,8 +6,8 @@
 
 - 🎓 UCI Business Administration (Finance & Information Systems)
 - 💼 Data Analyst @ AutoInsight (StartUp)
-- ✍️ Aspiring Full Stack Data Scientist 
-- 🌱 I’m currently learning Python (Deep Interest in Machine Learning 💻)
+- ✍️ Data Engineer / Analytics Engineer Career Path
+- 🌱 Building Data Engineering Projects 
 - 📫 How to reach me: &nbsp; <a href="mailto:hwcyanalyst@gmail.com"><img src="https://user-images.githubusercontent.com/117702329/218366442-e2054074-daf1-42a8-9a6d-672acc94937b.png" width="25"> &nbsp;&nbsp;[<img src="https://user-images.githubusercontent.com/117702329/218365994-e9c3cf62-6724-44d2-a3a2-139feac95a6e.png" width="25">](https://www.linkedin.com/in/harris-wan/) 
 - ⚡ Fun fact: Golden Retriver Lover 
 
