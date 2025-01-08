@@ -5,8 +5,8 @@
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/117702329/218368248-defa74e6-f986-4b48-b4a8-4a83f8b80e36.gif" width="350">
 
 - 🎓 UCI Business Administration (Finance & Information Systems)
-- 💼 Data Analyst @ AutoInsight (StartUp)
-- ✍️ Data Engineer / Analytics Engineer Career Path
+- 💼 Business Intelligence Analyst @ AutoInsight
+- ✍️ Analytics Engineer Career Path (DA + DE)
 - 🌱 Building Data Engineering Projects 
 - 📫 How to reach me: &nbsp; <a href="mailto:hwcyanalyst@gmail.com"><img src="https://user-images.githubusercontent.com/117702329/218366442-e2054074-daf1-42a8-9a6d-672acc94937b.png" width="25"> &nbsp;&nbsp;[<img src="https://user-images.githubusercontent.com/117702329/218365994-e9c3cf62-6724-44d2-a3a2-139feac95a6e.png" width="25">](https://www.linkedin.com/in/harris-wan/) 
 - ⚡ Fun fact: Golden Retriver Lover 
